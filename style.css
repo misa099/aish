@@ -1,0 +1,16 @@
+.imm{
+    border: 5px solid white;
+    width: 150px;
+}
+*{
+    background-color: black;
+}
+.dude{
+    background-color: black;
+    color: white;
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+
+}
